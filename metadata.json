@@ -1,0 +1,8 @@
+{
+  "name": "Beget - AI-Powered Cryptocurrency Trading & Terminal",
+  "description": "Professional cryptocurrency trading terminal featuring real-time market data, interactive charts, AI market intelligence, paper trading simulator, multi-currency wallets, virtual crypto cards, and P2P marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
